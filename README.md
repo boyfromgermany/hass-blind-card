@@ -5,7 +5,8 @@
 This card allows to open, close or set a blind to the position you want. The Color of the blind can also be defined. This is a fork of the Shutter Card by Deejayfool
 Mit einem anderen Fenster
 
-![blind card](https://raw.githubusercontent.com/tungmeister/hass-blind-card/master/images/blind-anim.gif)
+![blind card](https://github.com/boyfromgermany/hass-blind-card/blob/master/images/fenster-neu_1.png)
+
 
 ## Configuration
 
